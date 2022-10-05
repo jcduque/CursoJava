@@ -7,13 +7,13 @@ public class Operadores {
         //Aritmeticos
 
         // + - / * %
-        int number1 = 5;
-        int number2 = 2;
+        int numerox = 5;
+        int number2 = 3;
 
-        int resultado1 = number1 + number2;
-        int resultado2 = number1 - number2;
-        float resultado3 = number1 / number2;
-        int resultado4 = number1 * number2;
+        int resultado1 = numerox + number2;
+        int resultado2 = numerox - number2;
+        float resultado3 = numerox / number2;
+        int resultado4 = numerox * number2;
 
         //logicos, relacion, comparacion, booleanos
 
