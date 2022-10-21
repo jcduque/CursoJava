@@ -9,6 +9,7 @@ public class Funciones {
 //        holaMundo();
 //        bienvenida("Luis");
         System.out.println(saludoAdicional());
+        System.out.println(sum(5,7));
     }
 
     private static String saludoAdicional() {
@@ -28,5 +29,8 @@ public class Funciones {
     private static String pruebaHola(String name) {
         String saludo = "hola ";
         return saludo + name;
+    }
+    public static int sum(int num1, int num2){
+        return num1 + num2;
     }
 }
